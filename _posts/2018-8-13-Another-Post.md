@@ -1,6 +1,7 @@
 ---
 layout: post
-title: רשומה ראשנה בעברית!
+title: רשומה ראשונה בעברית!
+published: true
 ---
 
 הייתם מאמינים רשומה ראשונה בעברית :)
@@ -10,4 +11,3 @@ title: רשומה ראשנה בעברית!
 
 
 ![_config.yml]({{ site.baseurl }}/images/zehut.png)
-
